@@ -66,7 +66,7 @@ func main() {
 				Type: "text",
 			},
 			Voice: Voice{
-				Model:  "zh_en_male_1",
+				Model:  "zh_en_female_2",
 				Speed:  1,
 				Pitch:  1,
 				Energy: 1,
